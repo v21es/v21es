@@ -1,1 +1,1 @@
-![](suzuya.gif)
+![](main.gif)
