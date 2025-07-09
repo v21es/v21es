@@ -1,2 +1,2 @@
-![](assets/suzuya.gif)
+![](suzuya.gif)
 ![](assets/pngtest.png)
